@@ -52,6 +52,17 @@ function Showcase() {
                 📋 We provide you with our on-chain library that your contract
                 will call to validate that an address is on the allow-list before you mint.
               </p>
+              <div className="btn btn-lg col-6 bg-warning">
+                  <a
+                    className="btn btn-lg py-3"
+                    style={{ borderRadius: 13, width: "100%" }}
+                    href="https://web.merkallow.com"
+                    target="_blank" rel="noreferrer"
+                  >
+                    Let's GO
+                  </a>
+                  <div />
+                </div>
             </div>
           </div>
         </div>
